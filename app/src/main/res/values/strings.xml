@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Formulario de contacto</string>
+<string name="Titulo">Confirmar Datos</string>
+<string name="pnombre">nombre</string>
+<string name="pfecha">fecha</string>
+<string name="ptelefono">telefono</string>
+<string name="pemail">email</string>
+<string name="pdescripcion">descripcion</string>
+</resources>
